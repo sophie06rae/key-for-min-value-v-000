@@ -7,9 +7,7 @@ if name_hash.empty?
 else
   var = 5
   name_hash.each do |key, value|
-  if value < var
-    return key
-end
-end
-end
+
+    end
+  end
 end
