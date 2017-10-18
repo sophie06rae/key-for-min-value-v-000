@@ -13,7 +13,6 @@ else
     lowest_value = value
   end
   lowest_key
-
     end
   end
 end
