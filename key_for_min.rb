@@ -7,7 +7,7 @@ if name_hash.empty?
 else
   var = 5
   name_hash.collect do |key, value|
-  if value.to_i < var
+  if value < var
     key
 end
 end
