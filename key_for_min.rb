@@ -5,7 +5,6 @@ def key_for_min_value(name_hash)
 if name_hash.empty?
    nil
 else
-  var = 5
   name_hash.each do |key, value|
 
     end
